@@ -1,0 +1,21 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# IDEs
+/.idea
+*.iml
+/.classpath
+/.project
+/.settings
+
+# Build folders
+/target
+/build
+/out
+
+# OS
+.DS_Store
+Thumbs.db
